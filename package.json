@@ -1,0 +1,15 @@
+{
+  "name": "modulemadness",
+  "version": "1.0.0",
+  "description": "module madness",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "module",
+    "madness"
+  ],
+  "author": "Charles Kuruvila",
+  "license": "ISC"
+}
