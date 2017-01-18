@@ -17,8 +17,10 @@ The third module should require the other two modules (i.e. Module One and Modul
 
 The first function export should return the result of the first module being passed into the second module.
 The second function export should return the text “Account balance: \n”.
+
 * *app.js*
-* Finally, in the app.js file use the functions from your third module to produce the following output in the console:
+
+Finally, in the app.js file use the functions from your third module to produce the following output in the console:
 
 Account balance:
 $156,301
